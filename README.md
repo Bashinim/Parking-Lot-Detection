@@ -1,4 +1,4 @@
-Classification Task
+Parking Lot Detection
 ====================================
 
 This project contains the workings of the parking lots detection project that I completed for my masters thesis.
